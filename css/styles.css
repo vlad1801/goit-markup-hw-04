@@ -108,10 +108,10 @@ img {
 .svg-footer:focus {
 	background-color: var(--GREEN-color);
 }
-.statik-item:hover {
+.statik-link:hover {
 	box-shadow: 0px 1px 15px rgba(46, 47, 66, 0.08);
 }
-.statik-item:focus {
+.statik-link:focus {
 	box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
